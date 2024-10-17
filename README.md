@@ -17,6 +17,11 @@ Comentario
 --->
 ****
 # 2. Objetivos e Metas 
+O objetivo específico é que o sistema permita 
+acompanhar as tarefas que estejam em andamento, 
+concluídas, pendentes e arquivadas.
+A meta é que todas as tarefas tenham um registro para
+que sejam registradas e controladas.
 
 <!---
 Comentario
@@ -24,7 +29,7 @@ Comentario
 
 
 # 3. Metodologia de desenvolvimento
-
+Kanban: Foca na visualização do trabalho em andamento através de quadros que mostram as etapas das tarefas. Isso ajuda a identificar gargalos e priorizar o que deve ser feito a seguir, promovendo um fluxo contínuo de trabalho.
 <!---
 Descrição -  descrito acima: reescreva em até 2 paragrafos usando uma linguagem informal.
 --->
@@ -61,7 +66,10 @@ Para o contexto de requisitos não funcionais, crie uma tabela em markdown ampli
 
 --->
 
-## 7.1. Lista de recursos
+## 7.1. Lista de recursos tecnológicos
+
+1 acesso aos logs do firewall
+2 acesso à rede para analisar o tráfego
 
 # 8. Orçamento e cronograma geral
 
